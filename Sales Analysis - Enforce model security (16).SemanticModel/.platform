@@ -1,11 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Warehouse",
-    "displayName": "t4h_ware_dev"
+    "type": "SemanticModel",
+    "displayName": "Sales Analysis - Enforce model security (16)"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "237c771b-8368-beb9-460b-6606a2367e09"
+    "logicalId": "f31a702b-a379-bb1c-4708-8397bcaa88ee"
   }
 }
